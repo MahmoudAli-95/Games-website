@@ -1,0 +1,160 @@
+/* 640px sm*/
+@media screen and (min-width: 576px) {
+  .mh-b {
+    margin-bottom: 45px;
+  }
+  .fs-31 {
+    font-size: 45px;
+  }
+  .fs-21 {
+    font-size: 26.25px;
+  }
+  .fs-12 {
+    font-size: 15px;
+  }
+  .fs-26 {
+    font-size: 33.75px;
+  }
+
+  /* Start hero */
+  .hero {
+    padding-block: 112.5px 60px;
+  }
+  .hero-img .h-img img {
+    height: 300px;
+    border-radius: 11.25px;
+  }
+  .hero-img-flex {
+    padding: 22.5px;
+    left: -22.5px;
+    bottom: -22.5px;
+  }
+  /* End Hero */
+
+  /* Start Our Games */
+  .our-games {
+    padding-block: 60px;
+  }
+  .cur-btns {
+    width: auto;
+    column-gap: 30px;
+  }
+  /* End Our Games */
+
+  /* Start What We Do */
+  .what-we-do {
+    padding-block: 60px 45px;
+  }
+  /* End What We Do */
+
+  /* Start Sponsors */
+  .sponsors {
+    padding-block: 75px;
+  }
+  /* End Sponsors */
+
+  /* Start Our Team */
+  .our-team {
+    padding-block: 90px;
+  }
+  .our-team .our-team-head h2 {
+    font-size: 45px;
+  }
+  /* End Our Team */
+
+  /* Start contact us */
+  .contact-us {
+    padding-block: 90px;
+  }
+  .contact-us .contact-us-head h2 {
+    font-size: 45px;
+  }
+  /* End contact us */
+}
+
+/* 768px md*/
+@media screen and (min-width: 768px) {
+  .mh-b {
+    margin-bottom: 60px;
+  }
+  .fs-21 {
+    font-size: 36px;
+  }
+  .fs-31 {
+    font-size: 48px;
+  }
+  .fs-12 {
+    font-size: 16px;
+  }
+  .fs-26 {
+    font-size: 48px;
+  }
+
+  /* Start Hero */
+  .hero {
+    padding-block: 120px 64px;
+  }
+  .hero-img .h-img img {
+    height: 384px;
+    border-radius: 12px;
+  }
+  .hero-img-flex {
+    padding: 24px;
+    left: -24px;
+    bottom: -24px;
+  }
+  /* End Hero */
+
+  /* Start Our Games */
+  .our-games {
+    padding-block: 96px;
+  }
+  /* End Our Games */
+
+  /* Start What We Do */
+  .what-we-do {
+    padding-block: 96px 48px;
+  }
+  /* End What We Do */
+
+  /* Start Sponsors */
+  .sponsors {
+    padding-block: 80px;
+  }
+  /* End Sponsors */
+
+  .our-team {
+    padding-block: 96px;
+  }
+  .our-team .our-team-head h2 {
+    font-size: 48px;
+  }
+  /* End Our Team */
+
+  /* Start contact us */
+  .contact-us {
+    padding-block: 96px;
+  }
+  .contact-us .contact-us-head h2 {
+    font-size: 48px;
+  }
+  /* End contact us */
+}
+
+/* 1024px lg*/
+@media screen and (min-width: 992px) {
+  .mh-b {
+    margin-bottom: 64px;
+  }
+  .fs-31 {
+    font-size: 60px;
+  }
+  .fs-21 {
+    font-size: 48px;
+  }
+  nav .btns {
+    border-top: 0px !important;
+  }
+}
+/* 1280 */
+
